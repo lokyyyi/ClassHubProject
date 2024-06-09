@@ -66,3 +66,6 @@ https://www.figma.com/design/jEXIuj53g2LvNUfl0jxQjh/wireframe?node-id=0-1
 - ERDcloud
 
 ## 구현 기능 및 개인 역할
+
+1. lecture (강의) 파트 전반적인 서비스 로직 구현 및 테스트
+2. Spring Security와 JWT토큰을 활용해 OAuth2 인증 및 인가 구현 및 테스트
